@@ -10,8 +10,6 @@ Free desktop and Android TradingView alternative powered by Rust. Multi chart la
 
 ![Multi chart workspace](screenshots/multi-chart.png)
 
-![Android mobile app](screenshots/mobile.png)
-
 ## Download
 
 Grab the latest builds from the [Releases](https://github.com/cany38/TrendView/releases/latest) page:
