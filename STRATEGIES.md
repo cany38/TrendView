@@ -107,4 +107,4 @@ If you prefer writing raw JSON without importing `trendview_sdk.py`, print an ar
 
 Inside the bottom Strategy Tester, open the date range menu to switch between the visible chart range, preset windows (7, 30, 90, or 365 days), entire history, or a custom date range. On desktop, TrendView reads stored SQLite history and pulls missing historical candles from the exchange before running the simulation in Rust with live progress and cancel support.
 
-Default bar detalization checks four intrabar price points per candle (open, low, high, close for bullish bars; open, high, low, close for bearish bars). Switching to high detalization interpolates 28 steps across each bar for tighter take profit, stop loss, and trailing stop fills.
+Default bar detalization checks four intrabar price points per candle (open, low, high, close for bullish bars, open, high, low, close for bearish bars). Switching to high detalization interpolates 28 steps across each bar for tighter take profit, stop loss, and trailing stop fills.
