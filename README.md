@@ -12,15 +12,6 @@ Free desktop and Android TradingView alternative powered by Rust. Multi chart la
 
 ![Multi chart workspace](screenshots/multi-chart.png)
 
-## Download
-
-Grab the latest builds from the [Releases](https://github.com/cany38/TrendView/releases/latest) page:
-
-| Platform | File |
-| --- | --- |
-| Windows | [`TrendView.exe`](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) (portable, no installer needed) |
-| Android | [`TrendView-mobile.apk`](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk) |
-
 ## Features
 
 - Candlestick, Heikin Ashi, Renko, Kagi, Point and Figure, Line, Area, and Baseline charts with live streaming quotes.
