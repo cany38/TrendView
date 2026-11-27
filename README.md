@@ -2,7 +2,7 @@
 
 Free desktop and Android TradingView alternative powered by Rust. Multi chart layouts, live crypto, stock, and index data, custom Python strategies, and local deep backtesting.
 
-[![DOWNLOAD WIN11](https://img.shields.io/badge/DOWNLOAD_WIN11-2962FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIgMmg5LjV2OS41SDJWMnptMTAuNSAwSDIydjkuNWgtOS41VjJ6TTIgMTIuNWg5LjVWMjJIMnYtOS41em0xMC41IDBIMjJWMjJoLTkuNXYtOS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-089981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk)
+[![DOWNLOAD WINDOWS](https://img.shields.io/badge/DOWNLOAD_WINDOWS-2962FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIgMmg5LjV2OS41SDJWMnptMTAuNSAwSDIydjkuNWgtOS41VjJ6TTIgMTIuNWg5LjVWMjJIMnYtOS41em0xMC41IDBIMjJWMjJoLTkuNXYtOS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) [![DOWNLOAD ANDROID](https://img.shields.io/badge/DOWNLOAD_ANDROID-089981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk)
 
 ## Screenshots
 
@@ -11,6 +11,15 @@ Free desktop and Android TradingView alternative powered by Rust. Multi chart la
 ![Strategy tester and deep backtest](screenshots/strategy-tester.png)
 
 ![Multi chart workspace](screenshots/multi-chart.png)
+
+## Download
+
+Grab the latest builds from the [Releases](https://github.com/cany38/TrendView/releases/latest) page:
+
+| Platform | File |
+| --- | --- |
+| Windows | [`TrendView.exe`](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) (portable, no installer needed) |
+| Android | [`TrendView-mobile.apk`](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk) |
 
 ## Features
 
