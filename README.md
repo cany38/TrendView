@@ -2,6 +2,15 @@
 
 Free desktop and Android TradingView alternative powered by Rust. Multi chart layouts, live crypto, stock, and index data, custom Python strategies, and local deep backtesting.
 
+<p>
+  <a href="https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD_WIN11-2962FF?style=for-the-badge&logo=windows11&logoColor=white" alt="DOWNLOAD WIN11">
+  </a>
+  <a href="https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-089981?style=for-the-badge&logo=android&logoColor=white" alt="DOWNLOAD APK">
+  </a>
+</p>
+
 ## Screenshots
 
 ![Main chart view](screenshots/desktop-chart.png)
@@ -16,8 +25,8 @@ Grab the latest builds from the [Releases](https://github.com/cany38/TrendView/r
 
 | Platform | File |
 | --- | --- |
-| Windows | `TrendView.exe` (portable, no installer needed) |
-| Android | `TrendView-mobile.apk` |
+| Windows | [`TrendView.exe`](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) (portable, no installer needed) |
+| Android | [`TrendView-mobile.apk`](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk) |
 
 ## Features
 
