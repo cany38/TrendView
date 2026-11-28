@@ -2,7 +2,9 @@
 
 Free desktop and Android TradingView alternative powered by Rust. Multi chart layouts, live crypto, stock, and index data, custom Python strategies, and local deep backtesting.
 
-[![Download Windows](https://img.shields.io/badge/DOWNLOAD_WINDOWS-2962FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIgMmg5LjV2OS41SDJWMnptMTAuNSAwSDIydjkuNWgtOS41VjJ6TTIgMTIuNWg5LjVWMjJIMnYtOS41em0xMC41IDBIMjJWMjJoLTkuNXYtOS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) [![Download Android](https://img.shields.io/badge/DOWNLOAD_ANDROID-089981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk)
+[![Windows Download](https://img.shields.io/badge/Windows_Download-2962FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIgMmg5LjV2OS41SDJWMnptMTAuNSAwSDIydjkuNWgtOS41VjJ6TTIgMTIuNWg5LjVWMjJIMnYtOS41em0xMC41IDBIMjJWMjJoLTkuNXYtOS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/cany38/TrendView/releases/latest/download/TrendView.exe) [![Android Download](https://img.shields.io/badge/Android_Download-089981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cany38/TrendView/releases/latest/download/TrendView-mobile.apk)
+
+[![Linux Download (.deb)](https://img.shields.io/badge/Linux_Download_%28.deb%29-333333?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/cany38/TrendView/releases/latest/download/TrendView-linux-x64.deb) [![Linux Download (.tar.gz)](https://img.shields.io/badge/Linux_Download_%28.tar.gz%29-333333?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/cany38/TrendView/releases/latest/download/TrendView-linux-x64.tar.gz)
 
 ## Screenshots
 
